@@ -1,0 +1,4 @@
+1. Send a saved audio. Get it to play on the browser.
+2. Speech to Text.STT. -Prinout on the server side.
+3. TTS. - Send the text from speech to text.
+4. Add the LLM. - Send the audio bakc to the TTS.
